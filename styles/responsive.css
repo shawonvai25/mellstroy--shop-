@@ -1,0 +1,21 @@
+@media only screen and (max-width: 576px) {
+  .header-section {
+    flex-direction: column;
+  }
+  .nav-container {
+    margin-left: 50px;
+  }
+  .items-container {
+    flex-direction: column;
+    padding: 10px;
+  }
+  .items-container {
+    margin-left: 100px;
+  }
+  .items-container a {
+    margin-top: 5px;
+  }
+  .login-button {
+    margin-top: 10px;
+  }
+}

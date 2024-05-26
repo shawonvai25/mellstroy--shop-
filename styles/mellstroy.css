@@ -48,7 +48,7 @@ body {
   font-size: 20px;
   color: white;
 }
-.items-container .login-button a {
+.login-button a {
   padding: 10px 20px;
   background-color: #e893cf;
   border-radius: 8px;
