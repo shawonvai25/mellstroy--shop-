@@ -7,7 +7,7 @@
   }
   .items-container {
     flex-direction: column;
-    padding: 10px;
+    padding: 9px;
   }
   .items-container {
     margin-left: 100px;
@@ -17,5 +17,20 @@
   }
   .login-button {
     margin-top: 10px;
+  }
+  .banner-section {
+    flex-direction: column;
+    width: 100%;
+    margin-top: 40px;
+    gap: 15px;
+  }
+  .text-container {
+    width: 100%;
+    order: 1;
+  }
+  .banner-img-container {
+    width: 100%;
+    order: 2;
+    margin-top: 30px;
   }
 }
